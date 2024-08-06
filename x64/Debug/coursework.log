@@ -1,0 +1,6 @@
+﻿  Bike.cpp
+C:\Users\Adel Acheli\source\repos\coursework\Bike.h(10,34): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+C:\Users\Adel Acheli\source\repos\coursework\Bike.h(10,34): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  coursework.vcxproj -> C:\Users\Adel Acheli\source\repos\coursework\x64\Debug\coursework.exe
